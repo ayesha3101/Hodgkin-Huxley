@@ -14,9 +14,6 @@ dist/
 *.egg-info/
 
 
-*.png
-*.jpg
-
 
 .vscode/
 .idea/
